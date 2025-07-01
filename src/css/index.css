@@ -1,0 +1,10 @@
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden; /* prevent horizontal scroll */
+  background-color: #121212; /* darker background for cinematic feel */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
