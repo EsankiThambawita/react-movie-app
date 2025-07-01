@@ -16,7 +16,9 @@
 
 .movie-poster {
   position: relative;
-  aspect-ratio: 3/3;
+  aspect-ratio: 2/3;
+  overflow: hidden;
+  border-radius: 12px 12px 0 0;
   width: 100%;
 }
 
